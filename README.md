@@ -9,6 +9,18 @@ npm install
 npm run dev
 ```
 
+## ThreeJS model use
+
+- Requires dependencies: `three @react-three/fiber @react-three/drei react-responsive leva`
+- Requires dev dependencies: `@react-three/eslint-plugin` (update eslint.config to adding `"@react-three": ReactThreeFiber,` to the `plugins` )
+- Model downloaded from [Sketchfab](https://sketchfab.com/) in glTF format, converted via https://gltf.pmnd.rs/
+-
+
+## Special Thanks
+
+[Adrian at JavaScript Master](https://www.youtube.com/watch?v=kt0FrkQgw8w)
+[Babevid via Sketchfab](https://sketchfab.com/3d-models/hacker-room-stylized-a0cfe6edf2dd494c8a95addf6bb13a10)
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
