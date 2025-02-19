@@ -24,8 +24,9 @@ const Navbar = () => {
       <div className="mx-auto max-w-7xl">
         <div className="mx-auto flex items-center justify-between py-5 sm:px-10 px-5">
           <a
-            href="/"
+            href="https://cflinchbaugh.github.io/portfolio-v2/"
             className="text-xl font-bold text-neutral-400 transition-colors hover:text-white"
+            target="_blank"
           >
             Chris
           </a>

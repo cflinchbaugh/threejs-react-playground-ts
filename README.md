@@ -2,6 +2,8 @@
 
 A playground for React, threejs
 
+Demo: https://cflinchbaugh.github.io/threejs-react-playground-ts/
+
 ## Setup
 
 ```
