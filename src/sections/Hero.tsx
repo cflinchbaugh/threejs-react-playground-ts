@@ -1,8 +1,9 @@
 import { PerspectiveCamera } from "@react-three/drei";
-import { Canvas } from "react-three-fiber";
+
 import { HackerRoom } from "../components/HackerRoom";
 import { Suspense } from "react";
 import CanvasLoader from "../components/CanvasLoader";
+import { Canvas } from "@react-three/fiber";
 
 const Hero = () => {
   return (
