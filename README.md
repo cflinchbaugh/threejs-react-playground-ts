@@ -14,7 +14,7 @@ npm run dev
 - Requires dependencies: `three @react-three/fiber @react-three/drei react-responsive leva`
 - Requires dev dependencies: `@react-three/eslint-plugin` (update eslint.config to adding `"@react-three": ReactThreeFiber,` to the `plugins` )
 - Model downloaded from [Sketchfab](https://sketchfab.com/) in glTF format, converted via https://gltf.pmnd.rs/
--
+- Leva is used to add positioning controls to the UI, it must be rendered OUTSIDE of the Canvas element to avoid errors
 
 ## Special Thanks
 
